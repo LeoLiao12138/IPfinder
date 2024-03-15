@@ -1,6 +1,4 @@
 from scapy.all import *  
-  
-from scapy.all import *
 
 mac_list=[]
 def CallBack(packet):
